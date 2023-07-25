@@ -1,0 +1,65 @@
+.container.form{
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+/* Form.css */
+
+.custom-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 25px;
+    padding-bottom:25px;
+    border-radius: 10px;
+    background-color: #0B304D;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-form .form-group label {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-seri;
+    font-weight:10px;
+    color:antiquewhite;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+
+.custom-form .form-control {
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.custom-form .form-check {
+    margin-bottom: 10px;
+}
+/* Custom CSS for the neon button */
+.neon-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:900;
+    color: #fff;
+    background-color: #EB7A00;
+    /* Neon green color */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   text-shadow: 0 0 2px rgba(8, 0, 0, 0.8);
+    /* Neon green text shadow */
+  /*  box-shadow: 0 0 20px rgba(120, 120, 120, 0.4);*/
+    /* Neon green box shadow */
+   /* transition: background-color 0.2s ease;*/
+}
+
+.neon-button:hover {
+    background-color: #2040a9;
+    /* Darker shade of neon green on hover */
+}
+
+ 

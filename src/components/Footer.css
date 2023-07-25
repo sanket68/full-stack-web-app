@@ -1,0 +1,16 @@
+.text-center .p-3{
+    background-color: #483232;
+    padding:0px 0px 0px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+
+}
+
+a{
+    text-decoration:none;
+    
+}
+.text.dark{
+    padding:0px 0px 0px 2px;
+    color: aliceblue;
+}
